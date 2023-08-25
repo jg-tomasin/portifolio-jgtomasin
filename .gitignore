@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+#Direitos Reservados
+
+Este portfólio apresenta uma coleção diversificada de trabalhos e projetos criados por João Gabriel Tomasin. 
+Todos os direitos estão reservados e protegidos por lei. No entanto, desejo expressar minha disposição para 
+considerar a clonagem de projetos, desde que seja feito de maneira ética e respeitosa. 
+A inovação e a colaboração são valores fundamentais neste espaço, e estou aberto a oportunidades de desenvolvimento 
+conjunto. Agradeço pelo interesse e convido você a explorar as criações contidas neste portfólio, que refletem meu 
+compromisso e paixão pelo mundo do design e desenvolvimento.
